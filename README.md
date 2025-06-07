@@ -1,6 +1,6 @@
 # yes_no_app
 
-A new Flutter project.
+A new Flutter project. It's a quirky chat app that responds with 'yes,' 'no,' or 'maybe,' each answer accompanied by a GIF and text
 
 ## Getting Started
 
